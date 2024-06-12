@@ -1,0 +1,29 @@
+#main{
+    height: 700px;
+}
+ #placeholder{
+margin-left: 116px;
+ }
+ #placeholder1{
+    margin-left: 136px;
+ }
+ #areacode{
+    width: 84px;
+ }
+ #placeholder2{
+    margin-left: 63px;
+    font-size: 15px;
+    position: absolute;
+    top: 350px;
+    left: 558px;
+ }
+ #placeholder3{
+    margin-left: 116px;
+    font-size: 14px;
+    position: absolute;
+    top: 350px;
+    left: 368px;
+ }
+ .style{
+   margin-left: -20px;
+ }
